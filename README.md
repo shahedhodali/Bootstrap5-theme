@@ -1,5 +1,3 @@
-                     ![image](https://user-images.githubusercontent.com/19249620/206508707-3d5b2798-d0e1-4061-831d-243e743bcc49.png)
-
 # bootstrap5-theme
 Bootstrap5 Bondi Theme built by Bootstrap5
 
