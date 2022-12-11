@@ -5,5 +5,5 @@ Bootstrap5 Bondi Theme built by Bootstrap5
 
 
 ### License
-Bootstrap5 v5.0.2
-Fontawesome v6.2.1
+<p>Bootstrap5 <b>v5.0.2</b></p>
+<p>Fontawesome <b>v6.2.1</b></p>
